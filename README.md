@@ -1,2 +1,2 @@
 # Sprint01TITAN
-Sprinte 01 PT TITAN
+Sprint 01 PT TITAN
